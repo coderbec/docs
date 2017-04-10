@@ -3,7 +3,7 @@
 
 Monash SurveyKit is an app available for Android and iOS with a researcher's web platform.
 
-## Distribution [/distribution]
+## Distribution
 
 ### Release Notifications
 
