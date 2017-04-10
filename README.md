@@ -7,9 +7,7 @@ Monash SurveyKit is an app available for Android and iOS with a researcher's web
 
 ### Release Notifications
 
-To sign up for email notifications of all beta and production releases, use this form:
-
-[http://eepurl.com/cKrZH1]
+To sign up for email notifications of all beta and production releases, use [this form](http://eepurl.com/cKrZH1).
 
 ### Android Version
 
