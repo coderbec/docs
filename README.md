@@ -30,7 +30,7 @@ To obtain the beta version. Use [this link]([https://monashsurveykit.herokuapp.c
 There is currently no production channel for iOS. Please use the subscribe button above to be notified about changes.
 
 ## Issue Reporting
-If you are having difficulty installing this app or you are experiencing unexpected bugs, please use [this form](https://goo.gl/forms/P9RUDkILD9RLpsCf2).
+If you are having difficulty installing this app or you are experiencing unexpected bugs, please use [this form](https://goo.gl/forms/08pICM2zrCl3hDgE3).
 
 ## Known Issues
 If a survey has erroneously been created without question, this will cause crashes.
